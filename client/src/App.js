@@ -43,7 +43,7 @@ class App extends Component {
         <Header as='h2' icon textAlign='center' color='teal'>
           <Icon name='unordered list' circular />
           <Header.Content>
-            List of Ingredients
+            My Awesome List of Ingredients
           </Header.Content>
         </Header>
         <Divider hidden section />
